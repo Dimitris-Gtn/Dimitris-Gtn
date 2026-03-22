@@ -33,7 +33,7 @@ Prompt Engineering · LLMs · Data Structures
 
 ## 🚀 Projects
 
-### 📚 Python Library Management Application
+### 📚 Python Library Management Application (API, OOP & SQLite)
 Command-line app integrating the OpenLibrary API with SQLite storage.
 Built with OOP architecture and full network error handling.
 → [View Project](https://github.com/Dimitris-Gtn/Library_proj)
